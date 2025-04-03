@@ -6,4 +6,6 @@ create an avatar for user
 
 more lineees pra diferenciar da outra branch
 
+manage the database
+
 login and logout
